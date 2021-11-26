@@ -68,4 +68,4 @@ Hi! I am Dvij Kalaria, a final-year undergraduate student at the Department of C
 
 I am also an active member of the Autonomous Ground Vehicle Research Group on campus, which are focal points for student-led activities and projects related to robotics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
