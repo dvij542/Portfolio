@@ -64,7 +64,7 @@ experience:
     company_logo: org-x
     location: IIT Kharagpur
     date_start: '2019-05-16'
-    date_end: '2020-11-16'
+    date_end: ''
     description: 
   
   - title: Computer Graphics Lab 
