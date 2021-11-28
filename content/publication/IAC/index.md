@@ -15,7 +15,7 @@ authors:
 - -Accepted at 'Opportunities and Challenges in Autonomous Racing' worskshop, ICRA 2021
 
 
-date: "2021-07-13T00:00:00Z"
+date: "2021-03-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

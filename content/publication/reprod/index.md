@@ -11,7 +11,7 @@ authors:
 - -Under review at 'Workshop on Adversarial Machine Learning and Beyond', AAAI 2021
 
 
-date: "2021-07-13T00:00:00Z"
+date: "2020-12-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
