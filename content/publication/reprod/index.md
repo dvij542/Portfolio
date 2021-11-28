@@ -11,7 +11,7 @@ authors:
 - Abhishek Shukla
 - \*
 
-date: ""2020-12-13T00:00:00Z"
+date: "2020-12-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publication_types: ["1"]
 publication: Under review at 'Workshop on Adversarial Machine Learning and Beyond', AAAI 2021
 # publication_short: In *ICRA 2022*
 
-abstract: Hahahaha The paper reproduced in this report aims to tackle multiple pedestrian trajectory predictions using rich multi-modal predictions for the use of autonomous vehicles, social robots, etc. Earlier approaches to this problem have been auto-regressive in nature, i.e., using n points (or analogically, data from the last t seconds) from the dataset to produce the immediately next point, and then this process recurs.  In this paper, the end-point distribution conditioned on the past trajectory and the past trajectory features are modelled separately for each pedestrian. The future trajectory points are predicted based on the past and features from other pedestrians via social pooling. An assumption in this model is the absence of passive pedestrians or the fact that each pedestrian has an actual preconceived end-point or destination and is motivated to reach it. To formulate this report, we have experimented on the author's code by adding/removing social pooling layers, using truncation tricks, visualisation tools, and changing between CVAE and VAE architectures to verify all the claims made by the author described in detail below. We also performed some experiments such as shifting origin to the current point, using different architecture for encoder and decoder networks with the hope of improving the results, which are also described in detail at the end.
+abstract: The paper reproduced in this report aims to tackle multiple pedestrian trajectory predictions using rich multi-modal predictions for the use of autonomous vehicles, social robots, etc. Earlier approaches to this problem have been auto-regressive in nature, i.e., using n points (or analogically, data from the last t seconds) from the dataset to produce the immediately next point, and then this process recurs.  In this paper, the end-point distribution conditioned on the past trajectory and the past trajectory features are modelled separately for each pedestrian. The future trajectory points are predicted based on the past and features from other pedestrians via social pooling. An assumption in this model is the absence of passive pedestrians or the fact that each pedestrian has an actual preconceived end-point or destination and is motivated to reach it. To formulate this report, we have experimented on the author's code by adding/removing social pooling layers, using truncation tricks, visualisation tools, and changing between CVAE and VAE architectures to verify all the claims made by the author described in detail below. We also performed some experiments such as shifting origin to the current point, using different architecture for encoder and decoder networks with the hope of improving the results, which are also described in detail at the end.
 
 
 # Summary. An optional shortened abstract.
