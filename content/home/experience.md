@@ -25,7 +25,7 @@ experience:
   - title: Argo AI Center for Autonomous Vehicle Research
     company: Research assistant
     company_url: 'https://labs.ri.cmu.edu/argo-ai-center/'
-    company_logo: org-argo-ai
+    company_logo: org-x
     location: Carnegie Mellon University, 
     date_start: '2021-06-01'
     date_end: ''
