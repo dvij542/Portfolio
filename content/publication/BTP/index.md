@@ -9,7 +9,7 @@ authors:
 - admin
 - Nikhil Popli
 - Abhishek Shukla
-- *
+- \*
 
 
 
