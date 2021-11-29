@@ -1,20 +1,20 @@
 ---
-title: Hey Corona!
-subtitle: Hey corona,  Arrived that you have like fog, Its time to think are you an act of god, Quarantine along with you that you have brought, Is…
+title: THINGS TO AVOID/CONSIDER WHILE MAKING AN ARCADE GAME WITH MULTIPLE LEVELS
+subtitle: For scripting, to control level elements like score, powerups owned, player type, player upgrades and other elements, currently active…
 
 # Summary for listings and search engines
-summary: Hey corona,  Arrived that you have like fog, Its time to think are you an act of god, Quarantine along with you that you have brought, Is…
+summary: For scripting, to control level elements like score, powerups owned, player type, player upgrades and other elements, currently active…
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-3-28T00:00:00Z"
+date: "2020-6-2T00:00:00Z"
 
 # Date updated
-lastmod: "2020-3-28T00:00:00Z"
+lastmod: "2020-6-2T00:00:00Z"
 
-external_link: "https://dvij-kalaria.medium.com/hey-corona-a492e71fea88"
+external_link: "https://dvij-kalaria.medium.com/things-to-avoid-consider-while-making-an-arcade-game-with-multiple-levels-4f8586b6cb5a"
 # Is this an unpublished draft?
 draft: false
 
@@ -24,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Unity'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -33,7 +33,7 @@ authors:
 - admin
 
 tags:
-- Covid
+- GameDev
 
 categories:
 ---
