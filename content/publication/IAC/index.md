@@ -28,7 +28,7 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at 'Opportunities and Challenges in Autonomous Racing' worskshop, ICRA 2021
+publication: Accepted at 'Opportunities and Challenges in Autonomous Racing worskshop, ICRA 2021'
 # publication_short: In *ICRA 2022*
 
 abstract: The paper presents a strategy for the control of an autonomous racing car on a pre-mapped track. Using a dynamic model of the vehicle, the optimal racing line is computed, taking track boundaries into account. With the optimal racing line as a reference, a local nonlinear model predictive controller (NMPC) is proposed, which takes into account multiple local objectives like making more progress along the race line, avoiding collision with opponent vehicles, and use of drafting to achieve more progress.
@@ -75,13 +75,3 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

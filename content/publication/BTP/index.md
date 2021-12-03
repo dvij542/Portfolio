@@ -8,7 +8,7 @@ authors:
 - admin
 - Aritra Hazra
 - Partha Pratim Chakrabarti
-- -Under review at 'Workshop on Adversarial Machine Learning and Beyond', AAAI 2021
+- -Accepted at 'Workshop on Adversarial Machine Learning and Beyond, AAAI 2022'
 
 
 date: "2021-07-12T00:00:00Z"
@@ -24,7 +24,7 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at 'Workshop on Adversarial Machine Learning and Beyond', AAAI 2021
+publication: Accepted at 'Workshop on Adversarial Machine Learning and Beyond', AAAI 2021
 # publication_short: In *ICRA 2022*
 
 abstract: With the rapid advancement and increased use of deep learning models in image identification, security becomes a major concern to their deployment in safety-critical systems. Since the accuracy and robustness of deep learning models are primarily attributed from the purity of the training samples, therefore the deep learning architectures are often susceptible to adversarial attacks. Adversarial attacks are often obtained by making subtle perturbations to normal images, which are mostly imperceptible to humans, but can seriously confuse the state-of-the-art machine learning models. What is so special in the slightest intelligent perturbations or noise additions over normal images that it leads to catastrophic classifications by the deep neural networks? Using statistical hypothesis testing, we find that Conditional Variational AutoEncoders (CVAE) are surprisingly good at detecting imperceptible image perturbations. In this paper, we show how CVAEs can be effectively used to detect adversarial attacks on image classification networks. We demonstrate our results over MNIST, CIFAR-10 dataset and show how our method gives comparable performance to the state-of-the-art methods in detecting adversaries while not getting confused with noisy images, where most of the existing methods falter.
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openreview.net/forum?id=Ex1yemaQgU'
 url_code: 'https://github.com/dvij542/cvae-adversary-detector'
 url_dataset: ''
 url_poster: ''
@@ -71,13 +71,3 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
