@@ -8,7 +8,7 @@ authors:
 - admin
 - Qin Lin
 - John M. Dolan
-- -in RISS Journal 2021, Submitted at *IEEE Conference on Robotics and Automation 2022*
+- -Accepted at *IEEE Intelligent Vehicles Symposium 2022 (oral)*
 
 
 date: "2021-07-13T00:00:00Z"
