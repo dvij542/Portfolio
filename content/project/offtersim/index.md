@@ -3,7 +3,7 @@ title: OffTerSim
 summary: A custom designed simulator in Unity game engine to be used for training RL algorithms for offroad navigation on uneven terrain   
 # tags:
 # - Deep Learning
-date: "2024-2-01T00:00:00Z"
+date: "2024-1-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
