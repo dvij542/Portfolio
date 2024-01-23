@@ -10,17 +10,18 @@ role: Final-Year Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IIT Kharagpur
-  url: http://www.iitkgp.ac.in/
+- name: Robotics Institute, Carnegie Mellon University (CMU) 
+  url: https://www.ri.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Motion planning and controls, machine learning.
 
 # Interests to show in About widget
 interests:
-- Motion planning and controls
-- Machine Learning
-- Artificial Intelligence
+- Agile robots
+- Embodied AI
+- Reinforcement Learning
+- Adaptive Control
 - Computer Vision
 
 # Education to show in About widget
@@ -29,6 +30,9 @@ education:
   - course: B.Tech in Computer Science
     institution: Indian Institute of Technology Kharagpur
     year: 2018-2022
+  - course: Masters of Science in Robotics (MSR)
+    institution: Robotics Institute, Carnegie Mellon University
+    year: 2022-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +44,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dvij5420
+  link: https://twitter.com/DvijKalaria
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=gLVaYe4AAAAJ
@@ -67,4 +71,4 @@ highlight_name: true
 
 Hi! I am Dvij Kalaria, a final-year Masters of Science in Robotics (MSR) student at the Robotics Institute, Carnegie Mellon University advised by Dr. John Dolan and Dr. Qin Lin. I am interested in Agile robots, Embodied AI, Reinforcement Learning (RL), Adaptive control, Computer Vision especially in the domain of mobile robots. Currently, I am working on using RL for offroad driving on uneven terrain on a custom-built simulator. Apart from this, I am an active part as the vehicle dynamics lead of AIRacingTech for Indy Autonomous Challenge (IAC).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV (elaborate){{< /staticref >}} .
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}} (elaborate).
