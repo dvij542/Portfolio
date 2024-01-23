@@ -65,8 +65,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am Dvij Kalaria, a final-year undergraduate student at the Department of Computer Science and Engineering, IIT Kharagpur. I am interested in motion planning and controls, machine learning and computer vision especially in the domain of autonomous vehicles. Since summer, I have been working on compensating for practical delays during control of autonomous racing cars under the guidance of Dr. John Dolan and Dr. Qin Lin at the Robotics Institute, Carnegie Mellon University. Apart from this, I am working on safeguarding machine learning models against adversarial attacks as part of my undergraduate thesis.
-
-I am also an active member of the Autonomous Ground Vehicle Research Group on campus, which is driven by undergraduate students to conduct research projects in the direction of autonomous driving.
+Hi! I am Dvij Kalaria, a final-year Masters of Science in Robotics (MSR) student at the Robotics Institute, Carnegie Mellon University advised by Dr. John Dolan and Dr. Qin Lin. I am interested in Agile robots, Embodied AI, Reinforcement Learning (RL), Adaptive control, Computer Vision especially in the domain of mobile robots. Currently, I am working on using RL for offroad driving on uneven terrain on a custom-built simulator. Apart from this, I am an active part as the vehicle dynamics lead of AIRacingTech for Indy Autonomous Challenge (IAC).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
