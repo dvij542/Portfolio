@@ -1,5 +1,5 @@
 ---
-title: "Delay-aware Robust Control for Safe Autonomous Driving"
+title: "Delay-aware Robust Control for Safe Autonomous Driving and Racing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
