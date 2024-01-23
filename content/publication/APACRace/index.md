@@ -1,5 +1,5 @@
 ---
-title: "hahahahahahaha"
+title: "Adaptive Planning and Control with Time-Varying Tire Models for Autonomous Racing Using Extreme Learning Machine"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,15 +7,15 @@ title: "hahahahahahaha"
 authors:
 - admin
 - Qin Lin
-- John Dolan
-- -Under review at ICRA 2024
+- John M Dolan
+- -Under review, ICRA 2024
 
 
-date: "2023-08-12T00:00:00Z"
+date: "2023-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-01T00:00:00Z"
+publishDate: "2024-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: bhai kya dikkat hai
+publication: Presented as late breaking paper, IROS 2023, Under review for ICRA 2024
 # publication_short: In *ICRA 2022*
 
-abstract: Autonomous racing is a challenging problem, as the vehicle needs to operate at the friction or handling limits in order to achieve minimum lap times. Autonomous race cars require highly accurate perception, state estimation, planning and precise application of controls. What makes it even more challenging is the accurate identification of vehicle model parameters that dictate the effects of the lateral tire slip, which may change over time, for example, due to wear and tear of the tires. Current works either propose model identification offline or need good parameters to start with (within 15-20% of actual vacdclue), which is not enough to account for major changes in tire model that occur during actual races when driving at the control limits. We propose a unified framework which learns the tire model online from the collected data, as well as adjusts the model based on environmental changes even if the model parameters change by a higher margin. We demonstrate our approach in numeric and high-fidelity simulators for a 1:43 scale race car and a full-size car. We also present results on a real RC car platform
+abstract: With the rapid advancement and increased use of deep learning models in image identification, security becomes a major concern to their deployment in safety-critical systems. Since the accuracy and robustness of deep learning models are primarily attributed from the purity of the training samples, therefore the deep learning architectures are often susceptible to adversarial attacks. Adversarial attacks are often obtained by making subtle perturbations to normal images, which are mostly imperceptible to humans, but can seriously confuse the state-of-the-art machine learning models. What is so special in the slightest intelligent perturbations or noise additions over normal images that it leads to catastrophic classifications by the deep neural networks? Using statistical hypothesis testing, we find that Conditional Variational AutoEncoders (CVAE) are surprisingly good at detecting imperceptible image perturbations. In this paper, we show how CVAEs can be effectively used to detect adversarial attacks on image classification networks. We demonstrate our results over MNIST, CIFAR-10 dataset and show how our method gives comparable performance to the state-of-the-art methods in detecting adversaries while not getting confused with noisy images, where most of the existing methods falter.
 
 
 # Summary. An optional shortened abstract.
