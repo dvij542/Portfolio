@@ -22,33 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CMU AV Center for research
+  - title: AV Center for Autonomous Vehicle Research
     company: Research assistant
-    company_url: 'https://labs.ri.cmu.edu/av-center/'
+    company_url: 'https://labs.ri.cmu.edu/argo-ai-center/'
     company_logo: argo-ai
-    location: Carnegie Mellon University (CMU), 
-    date_start: '2021-07-01'
+    location: Carnegie Mellon University, 
+    date_start: '2021-06-01'
     date_end: ''
     description: 
-  
-  - title: AIRacingTech
-    company: Student researcher (Vehicle Dynamics team lead)
-    company_url: 'https://www.airacingtech.com/'
-    company_logo: art
-    location: University of California Berkeley (UCB), 
-    date_start: '2022-08-01'
-    date_end: ''
-    description: Indy Autonomous Challenge (IAC)
-  
-  - title: Pratt Miller
-    company: Research intern
-    company_url: 'https://www.prattmiller.com/'
-    company_logo: pm
-    location: Huntersville, North Carolina, 
-    date_start: '2023-05-01'
-    date_end: '2023-08-15'
-    description: 
-
+        
   - title: Oracle Cloude Infrastructure (OCI)
     company: Deep Learning Intern
     company_url: ''
@@ -74,7 +56,7 @@ experience:
     location: Indianapolis
     date_start: '2020-07-16'
     date_end: '2021-02-16'
-    description: Indy Autonomous Challenge (IAC)
+    description:
 
   - title: Autonomous Ground Vehicle Lab (AGV)
     company: AI team member
@@ -82,7 +64,7 @@ experience:
     company_logo: agv
     location: IIT Kharagpur
     date_start: '2019-05-16'
-    date_end: '2022-06-30'
+    date_end: ''
     description: 
   
   - title: Computer Graphics Society 
