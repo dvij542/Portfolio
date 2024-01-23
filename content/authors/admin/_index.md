@@ -14,7 +14,7 @@ organizations:
   url: https://www.ri.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Motion planning and controls, machine learning.
+bio: My research interests include Safe and adaptive controls for agile robots, machine learning and computer vision
 
 # Interests to show in About widget
 interests:
