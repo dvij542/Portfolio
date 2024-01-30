@@ -8,7 +8,7 @@ authors:
 - admin
 - Qin Lin
 - John M Dolan
-- -Under review, ICRA 2024
+- -Accepted, ICRA 2024
 
 
 date: "2023-06-12T00:00:00Z"
