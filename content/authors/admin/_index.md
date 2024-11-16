@@ -6,33 +6,34 @@ title: Dvij Kalaria
 superuser: true
 
 # Role/position/tagline
-role: Final-Year Graduate
+role: First-year PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Robotics Institute, Carnegie Mellon University (CMU) 
-  url: https://www.ri.cmu.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Safe and adaptive controls for agile robots, machine learning and computer vision
+- name: EECS, UC Berkeley 
+  url: https://bair.berkeley.edu/
 
 # Interests to show in About widget
 interests:
 - Agile robots
 - Embodied AI
 - Reinforcement Learning
-- Adaptive Control
+- Adaptive Learning-based Control
 - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
+  - course: EECS PhD
+    institution: BAIR, UC Berkeley
+    year: 2024-
+  - course: Masters of Science in Robotics (MSR)
+    institution: Robotics Institute, Carnegie Mellon University (CMU)
+    year: 2022-2024
   - course: B.Tech in Computer Science
     institution: Indian Institute of Technology Kharagpur
     year: 2018-2022
-  - course: Masters of Science in Robotics (MSR)
-    institution: Robotics Institute, Carnegie Mellon University
-    year: 2022-2024
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/DvijKalaria
+  link: https://x.com/DvijKalaria
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=gLVaYe4AAAAJ
@@ -69,6 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am Dvij Kalaria, a final-year Masters of Science in Robotics (MSR) student at the Robotics Institute, Carnegie Mellon University advised by Dr. John Dolan and Dr. Qin Lin. I am interested in Agile robots, Embodied AI, Reinforcement Learning (RL), Adaptive control, Computer Vision especially in the domain of mobile robots. Currently, I am working on using RL for offroad driving on uneven terrain on a custom-built simulator. Apart from this, I am an active part as the vehicle dynamics lead of AIRacingTech for Indy Autonomous Challenge (IAC).
+Hi! I am Dvij Kalaria, a first-year EECS PhD student at UC Berkeley affiliated with [Berkeley AI Research](https://bair.berkeley.edu/) (BAIR) advised by [Prof. Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV (elaborate){{< /staticref >}}.
+Previously I was a MS Robotics student at CMU [LeCAR](https://lecar-lab.github.io/) lab and [DRIVE](https://drive-lab-cmu.github.io/) lab, working with Professor [Guanya Shi](https://www.gshi.me/) and [John M. Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/). 
+
+Broadly, I am interested in Agile robots 🦾 🦿 🏎️ that operate at their limits and can rapidly adapt to unknown scenarios. Currently, I am focused on marying game theory with real-time robots such that they can play sports like table tennis, and can collaborate with humans in whole body tasks like lifting and moving around heavy objects. 
+
+From 2022 to 2024 I led vehicle dynamics team of [AI Racing Tech](https://www.airacingtech.com/) 🏎️, a multi-million $ autonomous racing research project in UCB, CMU and UCSD. I deployed real-world robot learning on F1-level self-driving race cars at 160 MPH. We are the top U.S. team in the [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/). 
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV (elaborate){{< /staticref >}}.
