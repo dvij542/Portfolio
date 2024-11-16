@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: x
+- icon: twitter
   icon_pack: fab
   link: https://x.com/DvijKalaria
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
