@@ -27,7 +27,7 @@ education:
   - course: EECS PhD
     institution: BAIR, UC Berkeley
     year: 2024-
-  - course: Masters of Science in Robotics (MSR)
+  - course: MS in Robotics (MSR)
     institution: Robotics Institute, Carnegie Mellon University (CMU)
     year: 2022-2024
   - course: B.Tech in Computer Science
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'dvijk@berkeley.edu'
 - icon: twitter
   icon_pack: fab
   link: https://x.com/DvijKalaria
@@ -72,7 +72,7 @@ highlight_name: true
 
 Hi! I am Dvij Kalaria, a first-year EECS PhD student at UC Berkeley affiliated with [Berkeley AI Research](https://bair.berkeley.edu/) (BAIR) advised by [Prof. Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html). 
 
-Previously I was a MS Robotics student at CMU [LeCAR](https://lecar-lab.github.io/) lab and [DRIVE](https://drive-lab-cmu.github.io/) lab, working with Professor [Guanya Shi](https://www.gshi.me/) and [John M. Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/). 
+Previously I was a MS Robotics student at CMU [LeCAR](https://lecar-lab.github.io/) lab and [DRIVE](https://drive-lab-cmu.github.io/) lab, working with Professor [Guanya Shi](https://www.gshi.me/) and [John M. Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/). For my undergraduate thesis, I was co-advised by Prof. [Partha Pratim Chakrabarti](https://cse.iitkgp.ac.in/~ppchak/index.html) and Prof. [Aritra Hazra](https://cse.iitkgp.ac.in/~aritrah/)
 
 Broadly, I am interested in Agile robots 🦾 🦿 🏎️ that operate at their limits and can rapidly adapt to unknown scenarios. Currently, I am focused on marying game theory with real-time robots such that they can play sports like table tennis, and can collaborate with humans in whole body tasks like lifting and moving around heavy objects. 
 
